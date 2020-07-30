@@ -18,7 +18,7 @@ Mini-projet Data scientist en <b>RUBY</b><br>
 
 <h3>1 - Big data:</h3>
 ---------------------<br>
-<p>Il se divise en 9 methodes:</p><br>
+<p>Il se divise en 11 methodes:</p><br>
 <br>
 <b>1- liste: </b><br>
 	=====> Definit la liste dans le tableau  <br>
